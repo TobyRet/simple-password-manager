@@ -1,4 +1,6 @@
 ### Simple Password Manager
 
-A console app that lets you store your passwords locally using Crypto-Js
+Personal practice with Node.js.
+
+This is console app that lets you store your passwords locally using Crypto-Js.
 
